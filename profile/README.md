@@ -1,12 +1,7 @@
-## Hi there 👋
+### 你好！ 👋
 
-<!--
+PurePanel 是一个极简、纯粹、易上手的中后台项目启动脚手架，适合前端初学者（我也是初学者😄）或小型项目使用。
 
-**Here are some ideas to get you started:**
+包含前端 Vue 项目和后端 SpringBoot3 项目。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> 项目目前正在积极开发中，敬请期待...
