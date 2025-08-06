@@ -1,12 +1,12 @@
 
 ### 你好！ 👋
 
-<img width="1920" height="1080" alt="5333ffeb-efce-45aa-bdad-30fc193e485a" src="https://github.com/user-attachments/assets/79914230-e615-4dc5-b76b-ab8a2397c2b7" />
-
 > 🎉 0.0.1.alpha 已发布
 
 PurePanel 是一个极简、纯粹、易上手的中后台项目启动脚手架，适合前端初学者（我也是初学者😄）或小型项目使用。
 
 包含前端 Vue3 项目和后端 SpringBoot3 项目。
+
+<img width="1920" height="1080" alt="5333ffeb-efce-45aa-bdad-30fc193e485a" src="https://github.com/user-attachments/assets/79914230-e615-4dc5-b76b-ab8a2397c2b7" />
 
 如果你也对该项目感兴趣请邮件至 **zyan1226@163.com** 与我取得联系！
