@@ -1,4 +1,7 @@
+
 ### 你好！ 👋
+
+<img width="1920" height="1080" alt="5333ffeb-efce-45aa-bdad-30fc193e485a" src="https://github.com/user-attachments/assets/79914230-e615-4dc5-b76b-ab8a2397c2b7" />
 
 > 🎉 0.0.1.alpha 已发布
 
