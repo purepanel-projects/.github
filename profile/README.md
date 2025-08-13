@@ -3,7 +3,7 @@
 
 > 🎉 0.0.1 现已发布
 
-PurePanel 是一个极简、纯粹、易上手的中后台项目启动脚手架，适合前端初学者（我也是初学者😄）或小型项目使用。
+PurePanel 是一个极简、纯粹、易上手的中后台项目启动脚手架，适合初学者或小型项目快速搭建项目。
 
 包含前端 [TDesign](https://tdesign.tencent.com/) Vue3 项目和后端 SpringBoot3 项目。
 
