@@ -9,7 +9,8 @@ PurePanel 是一个极简、纯粹、易上手的中后台项目启动脚手架�
 
 如果你也对该项目感兴趣请邮件至 **zyan1226@163.com** 与我取得联系！
 
-<img width="1900" height="1200" alt="image" src="https://github.com/user-attachments/assets/7a06f1e8-993c-4094-9f5e-fe4df4ab14a3" />
+<img width="2700" height="2000" alt="iShot_2025-10-10_18 49 52" src="https://github.com/user-attachments/assets/d571ce55-904e-4ee8-bd30-8a98acbb8c74" />
+
 
 
 
